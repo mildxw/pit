@@ -1,0 +1,33 @@
+<Page x:Class="PitPr4.App.GPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="g">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="16">
+            <TextBlock TextWrapping="Wrap" Margin="0,0,0,12"
+                       Text="Вариант 14: g = y^(x+1) / ∛|y−2| + (x + y/2) / (2|x+y|) · (x+1)^(−1/sin z). Ограничения: y ≠ 2, x+y ≠ 0, sin z ≠ 0." />
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="220" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="0,4">x</TextBlock>
+                <TextBox x:Name="TxtX" Grid.Row="0" Grid.Column="1" Margin="8,4" ToolTipService.ToolTip="Вещественное x" />
+                <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="0,4">y</TextBlock>
+                <TextBox x:Name="TxtY" Grid.Row="1" Grid.Column="1" Margin="8,4" ToolTipService.ToolTip="y ≠ 2" />
+                <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="0,4">z (рад)</TextBlock>
+                <TextBox x:Name="TxtZ" Grid.Row="2" Grid.Column="1" Margin="8,4" ToolTipService.ToolTip="z так, что sin z ≠ 0" />
+            </Grid>
+            <StackPanel Orientation="Horizontal" Margin="0,12,0,0">
+                <Button x:Name="BtnCalc" Content="Вычислить" Width="120" Click="BtnCalc_OnClick"
+                        ToolTipService.ToolTip="Посчитать g по формуле варианта 14" />
+            </StackPanel>
+            <TextBlock x:Name="TxtResult" Margin="0,12,0,0" TextWrapping="Wrap" />
+        </StackPanel>
+    </ScrollViewer>
+</Page>

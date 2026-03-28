@@ -1,0 +1,18 @@
+<Window x:Class="PitPr4.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ПР4, вариант 14 — Богданова М.Н. / WPF .NET"
+        Height="560" Width="880"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Страницы">
+                <MenuItem Header="Функция g(x, y, z)" Click="MenuG_OnClick" />
+                <MenuItem Header="Функция d(x, y, f)" Click="MenuD_OnClick" />
+                <MenuItem Header="График y(x)" Click="MenuPlot_OnClick" />
+            </MenuItem>
+            <MenuItem Header="Выход" Click="MenuExit_OnClick" />
+        </Menu>
+        <Frame x:Name="RootFrame" NavigationUIVisibility="Hidden" />
+    </DockPanel>
+</Window>

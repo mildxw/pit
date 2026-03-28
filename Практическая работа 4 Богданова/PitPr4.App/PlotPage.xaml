@@ -1,0 +1,56 @@
+<Page x:Class="PitPr4.App.PlotPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="plot">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" TextWrapping="Wrap" Margin="0,0,0,8"
+                   Text="Вариант 14: y = (x^(5/2) − b) · ln(x² + 12,7). Для вещественных x используйте x ≥ 0." />
+        <Grid Grid.Row="1" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Column="0" VerticalAlignment="Center" Margin="0,0,8,0">x от</TextBlock>
+            <TextBox x:Name="TxtFrom" Grid.Column="1" Margin="0,0,12,0" ToolTipService.ToolTip="Начало отрезка, x ≥ 0" />
+            <TextBlock Grid.Column="2" VerticalAlignment="Center" Margin="0,0,8,0">x до</TextBlock>
+            <TextBox x:Name="TxtTo" Grid.Column="3" Margin="0,0,12,0" ToolTipService.ToolTip="Конец отрезка" />
+            <TextBlock Grid.Column="4" VerticalAlignment="Center" Margin="0,0,8,0">шаг</TextBlock>
+            <TextBox x:Name="TxtStep" Grid.Column="5" Margin="0,0,12,0" ToolTipService.ToolTip="Положительный шаг" />
+            <TextBlock Grid.Column="6" VerticalAlignment="Center" Margin="0,0,8,0">b</TextBlock>
+            <TextBox x:Name="TxtB" Grid.Column="7" Margin="0,0,12,0" ToolTipService.ToolTip="Параметр b из формулы" />
+            <Button Grid.Column="8" Content="Построить" Width="100" HorizontalAlignment="Left"
+                    Click="BtnBuild_OnClick" ToolTipService.ToolTip="Таблица точек и ломаная на графике" />
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="280" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <DataGrid x:Name="GridPoints" Grid.Column="0" AutoGenerateColumns="False" IsReadOnly="True"
+                      HeadersVisibility="Column" Margin="0,0,12,0" MaxHeight="360">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="x" Binding="{Binding X}" Width="*" />
+                    <DataGridTextColumn Header="y" Binding="{Binding Y}" Width="*" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <Border Grid.Column="1" BorderBrush="#CCC" BorderThickness="1" Background="#FAFAFA">
+                <Canvas x:Name="PlotCanvas" ClipToBounds="True" />
+            </Border>
+        </Grid>
+    </Grid>
+</Page>
