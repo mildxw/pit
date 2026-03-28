@@ -7,8 +7,6 @@
 
 Репозиторий: [github.com/mildxw/pit](https://github.com/mildxw/pit) (ветка **`pr4`**).
 
-Оформление по аналогии с примером: [zakmira/Zakirova_PiT, ветка pr4](https://github.com/zakmira/Zakirova_PiT/tree/pr4).
-
 ---
 
 ## Задание (кратко)
@@ -23,17 +21,6 @@
 | `Практическая работа 4 Богданова/PitPr4.App/` | Исходный код WPF |
 | `Практическая работа 4 Богданова/PitPr4.App/Variant14Math.cs` | Формулы варианта 14 и проверки ОД |
 | `screenshots/g/` … `d/` … `y/` | Скриншоты экранов (функция g, d, график) |
-
-## Как собрать и запустить
-
-1. Установите [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) для Windows.
-2. Откройте `Практическая работа 4 Богданова\PitPr4.sln` в Visual Studio 2022 **или** в терминале:
-
-```bash
-cd "Практическая работа 4 Богданова"
-dotnet build PitPr4.sln -c Release
-dotnet run --project PitPr4.App -c Release
-```
 
 ## Вариант 14 (формулы)
 
