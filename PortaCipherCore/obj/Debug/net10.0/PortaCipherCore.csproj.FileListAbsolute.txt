@@ -1,0 +1,12 @@
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\bin\Debug\net10.0\PortaCipherCore.deps.json
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\bin\Debug\net10.0\PortaCipherCore.dll
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\bin\Debug\net10.0\PortaCipherCore.pdb
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.AssemblyInfoInputs.cache
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.AssemblyInfo.cs
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.csproj.CoreCompileInputs.cache
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.sourcelink.json
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.dll
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\refint\PortaCipherCore.dll
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\PortaCipherCore.pdb
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PortaCipherCore\obj\Debug\net10.0\ref\PortaCipherCore.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqMYe7H+jk4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PortaCipherCore\\PortaCipherCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elise\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

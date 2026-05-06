@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PortaCipherTest/PortaCipherTest.csproj" />
+  <Project Path="PR7-PortaCipher/PR7-PortaCipher.csproj" />
+</Solution>
