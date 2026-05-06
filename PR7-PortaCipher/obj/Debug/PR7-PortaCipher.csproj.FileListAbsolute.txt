@@ -1,0 +1,9 @@
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\bin\Debug\PR7-PortaCipher.exe.config
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\bin\Debug\PR7-PortaCipher.exe
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\bin\Debug\PR7-PortaCipher.pdb
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7-PortaCipher.csproj.AssemblyReference.cache
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7_PortaCipher.Form1.resources
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7-PortaCipher.csproj.GenerateResource.cache
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7-PortaCipher.csproj.CoreCompileInputs.cache
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7-PortaCipher.exe
+C:\Users\elise\Desktop\PR7\PR7-PortaCipher\PR7-PortaCipher\obj\Debug\PR7-PortaCipher.pdb
