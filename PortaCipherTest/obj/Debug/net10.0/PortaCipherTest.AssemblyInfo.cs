@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortaCipherTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b533549cc42f0e763faa0033aa87388fd6af07e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+075d5073acf7c6e9b6408fa912c05ed9d295c183")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortaCipherTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortaCipherTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

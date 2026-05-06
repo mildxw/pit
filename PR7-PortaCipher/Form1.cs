@@ -33,7 +33,7 @@ namespace PR7_PortaCipher
                 { "шпион", "E5" },
                 { "план", "F6" },
                 { "данные", "G7" },
-                { "сло", "H8" }
+                { "слон", "H8" }
             };
 
             _cipher = new PortaCipher(codeBook);

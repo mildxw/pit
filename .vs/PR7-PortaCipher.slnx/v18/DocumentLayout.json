@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D16B6A1-7BE9-9E05-F293-F2BD1D7F56CE}|PortaCipherTest\\PortaCipherTest.csproj|c:\\users\\elise\\desktop\\pr7\\pr7-portacipher\\portaciphertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D16B6A1-7BE9-9E05-F293-F2BD1D7F56CE}|PortaCipherTest\\PortaCipherTest.csproj|solutionrelative:portaciphertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|c:\\users\\elise\\desktop\\pr7\\pr7-portacipher\\pr7-portacipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|solutionrelative:pr7-portacipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|c:\\users\\elise\\desktop\\pr7\\pr7-portacipher\\pr7-portacipher\\portacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|solutionrelative:pr7-portacipher\\portacipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|c:\\users\\elise\\desktop\\pr7\\pr7-portacipher\\pr7-portacipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|solutionrelative:pr7-portacipher\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|c:\\users\\elise\\desktop\\pr7\\pr7-portacipher\\pr7-portacipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1DCC84-0B7C-4E0F-8E37-D01E433DD7C8}|PR7-PortaCipher\\PR7-PortaCipher.csproj|solutionrelative:pr7-portacipher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Form1.cs",
+              "RelativeDocumentMoniker": "PR7-PortaCipher\\Form1.cs",
+              "ToolTip": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Form1.cs",
+              "RelativeToolTip": "PR7-PortaCipher\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:49:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Form1.cs",
+              "RelativeDocumentMoniker": "PR7-PortaCipher\\Form1.cs",
+              "ToolTip": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PR7-PortaCipher\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:48:42.831Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PortaCipherTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PortaCipherTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PortaCipherTest\\UnitTest1.cs",
+              "RelativeToolTip": "PortaCipherTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:45:41.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Program.cs",
+              "RelativeDocumentMoniker": "PR7-PortaCipher\\Program.cs",
+              "ToolTip": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\Program.cs",
+              "RelativeToolTip": "PR7-PortaCipher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:44:21.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortaCipher.cs",
+              "DocumentMoniker": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\PortaCipher.cs",
+              "RelativeDocumentMoniker": "PR7-PortaCipher\\PortaCipher.cs",
+              "ToolTip": "C:\\Users\\elise\\Desktop\\PR7\\PR7-PortaCipher\\PR7-PortaCipher\\PortaCipher.cs",
+              "RelativeToolTip": "PR7-PortaCipher\\PortaCipher.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:44:17.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
